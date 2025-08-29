@@ -120,7 +120,7 @@ It involves a pipeline of multiple steps:
 
 | Original Image | Segmented Image |
 |----------------|----------------|
-| ![Original Leaf](test_images/test2.JPG) | ![Segmented Leaf](segmented_images/test2.JPG) |
+| ![Original Leaf](test_images/test3.JPG) | ![Segmented Leaf](segmented_images/test3.JPG) |
 
 *The left column shows the original leaf image, and the right column shows the output after segmentation and refinement.*
 ✅ 
